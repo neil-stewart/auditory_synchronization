@@ -1,5 +1,7 @@
 # Data and code for Reimers and Stewart (2016)
 
+Reimers, S., & Stewart, N. (2016). Auditory presentation and synchronization in Adobe Flash and HTML5/JavaScript web experiments. Behaviour Research Methods, 48, 897-908. [doi: 10.3758/s13428-016-0758-5](http://dx.doi.org/10.3758/s13428-016-0758-5)
+
 As on the journal website.
 
 This repo file contains the following:
